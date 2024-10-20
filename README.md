@@ -1,1 +1,1 @@
-Implementing Credit-Card fraud detection using Neo4j, we try and use louvian clustering to cluster and find suspicious entities.
+This project implements credit card fraud detection using neo4j. We use credit card transaction data and try and find clusters between fradulent transactions to predict more frauds.
